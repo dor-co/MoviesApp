@@ -11,3 +11,5 @@ Movies list page:
 
 Movie details page:
 
+![movieDetails](https://user-images.githubusercontent.com/65961363/105480971-14077f80-5caf-11eb-9c71-fec3b4df7249.jpg)
+
