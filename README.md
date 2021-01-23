@@ -15,7 +15,7 @@ Click on submit and pass to 'Movies list' page.
 
 ![moviesList](https://user-images.githubusercontent.com/65961363/105480854-f5a18400-5cae-11eb-8c91-2a2513e1978b.jpg)
 
-In this page you can see all the popular movies from https://www.themoviedb.org/documentation/api.
+In this page you can see all the popular movies from https://www.themoviedb.org/.
 In the top of the page there is an icon of 'heart', click on it will open pop-up of favorite list and next to the button there is a counter that count the amount of favorite movies.
 Click on any movie will pass you to 'Movie details' page.
 
